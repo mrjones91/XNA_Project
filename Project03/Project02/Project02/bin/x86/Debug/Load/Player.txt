@@ -1,0 +1,2 @@
+﻿Load=[Image][Position][Frames]
+[PlayerImage][120 160][3 4]

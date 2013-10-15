@@ -1,0 +1,2 @@
+﻿Load=[Image][Position]
+[Pong/paddle][100 400]

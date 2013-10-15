@@ -1,0 +1,8 @@
+﻿Load=[Image]
+[SplashScreen/cover]
+[SplashScreen/LTitle]
+EndLoad=[Image]
+Load=[Sound]
+[SplashScreen/SplashSound/woah1]
+[SplashScreen/SplashSound/hot]
+EndLoad=[Sound]
