@@ -1,7 +1,6 @@
 XNA_Project
 ===========
 
-Learning XNA game programming
-This project folder includes a large single project that will contain a small list of games.
-
-Credit to CodingMadeEasy and his youtube channel for the tutorials on setting up the content management for this project.
+Project to learn XNA Game Programming.
+Following tutorials series XNA Made Easy by Coding Made Easy on Youtube, this project is a combination of a couple
+of small projects including a Pathfinding homework problem and a in progress version of Breakout/Arkanoid/etc.
